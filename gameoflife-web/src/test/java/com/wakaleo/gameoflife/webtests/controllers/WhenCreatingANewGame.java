@@ -47,3 +47,4 @@ public class WhenCreatingANewGame {
         assertThat((Integer) homeView.getModel().get("columns"), is(5));
     }
 }
+
